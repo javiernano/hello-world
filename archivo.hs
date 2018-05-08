@@ -1,2 +1,2 @@
 --archivo
---agrego funciones ponele
+--cambio funciones ponele
